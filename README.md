@@ -1,2 +1,2 @@
-# surfingtime
-Surf Spots
+# SurferTime
+# SurferTime
